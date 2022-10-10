@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cae5c914e3fc1b47be17fa617e25ca0, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  question: What  ritual would an Ancient Egyptian do when their cat died?
+  answers:
+  - Shave off their eyebrows
+  - Eat only onions for a week
+  - Cut off a finger
+  - Shave their entire head
+  correctAnswerIndex: 0
