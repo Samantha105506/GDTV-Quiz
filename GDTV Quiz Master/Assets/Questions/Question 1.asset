@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4cae5c914e3fc1b47be17fa617e25ca0, type: 3}
-  m_Name: Question 2
+  m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: What is the lifespan of an indoor cat?
+  question: What does it mean when a cat blinks slowly at you?
   answers:
-  - 3-6 years
-  - 7-10 years
-  - 11-15 years
-  - '15-18 years '
-  correctAnswerIndex: 0
+  - The cat feels threatened and wants you to leave
+  - The cat is bored and wants you to entertain him
+  - The cat is happy and trusts you
+  - The cat is sad and needs hugs
+  correctAnswerIndex: 2
