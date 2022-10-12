@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: What  ritual would an Ancient Egyptian do when their cat died?
   answers:
-  - Shave off their eyebrows
   - Eat only onions for a week
+  - Shave off their eyebrows
   - Cut off a finger
   - Shave their entire head
-  correctAnswerIndex: 0
+  correctAnswerIndex: 1

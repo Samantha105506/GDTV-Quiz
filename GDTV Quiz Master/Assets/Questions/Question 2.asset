@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: What is the lifespan of an indoor cat?
   answers:
-  - Two - Five years
-  - Six - Nine years
-  - Ten - Fourteen years
   - 'Fifteen - Eighteen years '
-  correctAnswerIndex: 3
+  - Ten - Fourteen years
+  - Six - Nine years
+  - Two - Five years
+  correctAnswerIndex: 0

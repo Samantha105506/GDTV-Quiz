@@ -15,7 +15,7 @@ MonoBehaviour:
   question: What does it mean when a cat blinks slowly at you?
   answers:
   - The cat feels threatened and wants you to leave
-  - The cat is bored and wants you to entertain him
   - The cat is happy and trusts you
+  - The cat is bored and wants you to entertain him
   - The cat is sad and needs hugs
-  correctAnswerIndex: 2
+  correctAnswerIndex: 1
